@@ -1,0 +1,8 @@
+{"idsql": 1,"nombre": "Tener vehiculo","descripcion": "El voluntario debe contar con un vehiculo"}
+{"idsql": 2,"nombre": "Tener vehiculo grande","descripcion": "El voluntario debe contar con camioneta o camion"}
+{"idsql": 3,"nombre": "Primeros auxilios","descripcion": "El voluntario debe tener conocimientos en primeros auxilios"}
+{"idsql": 4,"nombre": "Fuerza fisica","descripcion": "El voluntario debe tener gran fuerza fisica"}
+{"idsql": 5,"nombre": "Herramientas","descripcion": "El voluntario debe contar con herramientas de excavacion"}
+{"idsql": 6,"nombre": "Donaciones","descripcion": "El voluntario puede hacer donaciones de alimentos o vestuarios"}
+{"idsql": 7,"nombre": "Jaula para mascotas","descripcion": "El voluntario debe poseer jaula para mascotas"}
+{"idsql": 8,"nombre": "Rescate","descripcion": "El voluntario debe tener conocimientos en rescates"}

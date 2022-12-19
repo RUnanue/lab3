@@ -1,0 +1,4 @@
+{"idsql": 1,"nombre":"incendio1","descripcion":"Desc","id_institucion":1, "geom": {"type":"Point", "coordinates":[-70.6573578,-33.3930103]} }
+{"idsql":2,"nombre":"explosion1","descripcion":"Explosion atentado","id_institucion":1,"geom":{"type":"Point", "coordinates":[-70.74840761898412,-33.51387860148633]}}
+{"idsql": 3,"nombre": "terremoto-derrumbe","descripcion":"Desc2" ,"id_institucion":2 ,"geom": {"type":"Point","coordinates":[-70.86650368329906,-33.69979341259029]}}
+{"idsql":4 ,"nombre":"terremoto-derrumbe" ,"descripcion": "derrumbe edificio","id_institucion": 2,"geom": {"type":"Point","coordinates":[-70.85166273403244,-33.78551475105206]}}

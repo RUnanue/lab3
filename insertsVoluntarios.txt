@@ -1,0 +1,22 @@
+{"idsql": 1,"nombre": "Alvaro Alvarez","correo": "alvaro.alvarez@gmail.cl","contrasenia": "1234567","geom": {"type":"Point", "coordinates":[-71.03822921740827,-33.97665360892315]},"habilidades":[1,2,3,4]}
+{"idsql": 2,"nombre": "Bartolo Rodriguez","correo": "mbrodriguezz@gmail.cl","contrasenia": "1234567","geom": {"type":"Point", "coordinates":[-71.38470982939172,-34.51318544568285]},"habilidades":[4]}
+{"idsql": 3,"nombre": "Catalina Hernandez","correo": "cata.h.j@gmail.cl","contrasenia": "1234567","geom": {"type":"Point", "coordinates":[-71.67087836987741,-36.33086000188718]},"habilidades":[5]}
+{"idsql": 4,"nombre": "Carlos Valdivia","correo": "c.valdivia@yopmail.com","contrasenia": "1234567","geom": {"type":"Point", "coordinates":[-72.27501195536189,-38.3900998705874]},"habilidades":[1,5]}
+{"idsql": 5,"nombre": "Camila Contreras","correo": "camila.c.h1@hotmail.com","contrasenia": "1234567","geom": {"type":"Point", "coordinates":[-71.33171565521717,-35.46317242722952]},"habilidades":[6]}
+{"idsql": 6,"nombre": "Boris Salazar","correo": "b.salazar@hotmail.cl","contrasenia": "1234567","geom": {"type":"Point", "coordinates":[-70.98195410572502,-32.24663762304428]},"habilidades":[1,7]}
+{"idsql": 7,"nombre": "Kevin Valencia","correo": "kevin_valencia1990@gmail.com","contrasenia": "1234567","geom": {"type":"Point", "coordinates":[-70.56859954722792,-32.644381510740864]},"habilidades":[3,7,8]}
+{"idsql": 8,"nombre": "Romina Jofre","correo": "romina_jofre_78@gmail.cl","contrasenia": "1234567","geom": {"type":"Point", "coordinates":[-70.53680304272758,-33.0936574524082]},"habilidades":[8]}
+{"idsql": 9,"nombre": "Ekaterina Alvarez","correo": "ekaterina.r.2@gmail.com","contrasenia": "1234567","geom": {"type":"Point", "coordinates":[-70.71698323490824,-33.45226328529057]},"habilidades":[1,3,4,6]}
+{"idsql": 10,"nombre": "Isabel Medina","correo": "i.medina932@gmail.com","contrasenia": "1234567","geom": {"type":"Point", "coordinates":[-70.85476808774357,-34.45858384946493]},"habilidades":[2]}
+{"idsql": 11,"nombre": "Roberto Droguet","correo": "roberto_droguet@usach.cl","contrasenia": "1234567","geom": {"type":"Point", "coordinates":[-72.73076185319304,-37.632546513155354]},"habilidades":[8]}
+{"idsql": 12,"nombre": "Carlos Ulloa","correo": "carlos.ulloa@gmail.com","contrasenia": "1234567","geom": {"type":"Point", "coordinates":[-73.27130242967645,-40.86916671361661]},"habilidades":[2,3,4,5]}
+{"idsql": 13,"nombre": "Milovan Mirosevic","correo": "elmasgrande@gmail.com","contrasenia": "1234567","geom": {"type":"Point", "coordinates":[-71.13433804924844,-32.44546581697192]},"habilidades":[4,5]}
+{"idsql": 14,"nombre": "Renato Cofre","correo": "r.cofre@gmail.com","contrasenia": "1234567","geom": {"type":"Point", "coordinates":[-70.24903820191595,-27.585443607775083]},"habilidades":[7,8]}
+{"idsql": 15,"nombre": "Rodolfo Riquelme","correo": "rr.riquelme12@outlook.com","contrasenia": "1234567","geom": {"type":"Point", "coordinates":[-70.09005567941624,-29.02680818603497]},"habilidades":[2,3]}
+{"idsql": 16,"nombre": "Osvaldo Leon","correo": "osvaldo.l@outlook.cl","contrasenia": "1234567","geom": {"type":"Point", "coordinates":[-69.84744148701178,-20.67212318421305]},"habilidades":[5]}
+{"idsql": 17,"nombre": "Matias Vidal","correo": "mati.vidal@gmail.com","contrasenia": "1234567","geom": {"type":"Point", "coordinates":[-69.47648226783916,-22.27450847557509]},"habilidades":[3,4,5]}
+{"idsql": 18,"nombre": "Alexander Santander","correo": "alexander.santander@outlook.com","contrasenia": "1234567","geom": {"type":"Point", "coordinates":[-69.55067411167396,-24.149212755721962]},"habilidades":[4]}
+{"idsql": 19,"nombre": "Nelson Arriagada","correo": "arriagada.nelson@outlook.cl","contrasenia": "1234567","geom": {"type":"Point", "coordinates":[-69.94283100049843,-27.17209094856804]},"habilidades":[6]}
+{"idsql": 20,"nombre": "Edmundo Jimenez","correo": "edmundo.jimenez@gmail.com","contrasenia": "1234567","geom": {"type":"Point", "coordinates":[-70.33498788932087,-30.11527954537243]},"habilidades":[6,8]}
+{"idsql": 21,"nombre": "Fernanda Soto","correo": "fernanda.soto@gmail.com","contrasenia": "1234567","geom": {"type":"Point", "coordinates":[-70.70594710848381,-32.97332934406795]},"habilidades":[3]}
+
